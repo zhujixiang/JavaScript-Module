@@ -1,6 +1,4 @@
 # JavaScript-Module
-JavaScript模块
-
 
 JavaScript模块
 
@@ -151,4 +149,3 @@ function(review,cat){
 });
 // 其他插件json、mdown，用于加载json文件和markdown文件
 ```
-
